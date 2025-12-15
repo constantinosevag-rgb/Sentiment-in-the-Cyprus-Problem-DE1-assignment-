@@ -48,3 +48,10 @@ aws configure
 jupyter notebook "Cloud Data Analysis(Code).ipynb"
 
 For a detailed breakdown of costs and methodology, please refer to the attached PDF report.
+
+## 5. References
+The text analyzed in this project was derived from the following real-world news reports regarding the 2025 UN negotiation deadlock:
+
+Greek Cypriot Source: Politis News (Nov 2025). "All Eyes on Two Leaders to Lead the Way to Talks".
+
+Turkish Cypriot Source: TRNC Public Information Office (July 2025). "President Tatar: We maintain the two-state policy".
